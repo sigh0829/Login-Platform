@@ -12,7 +12,6 @@ public:
 
 signals:
     void setTextAuthentication(QVariant text);
-
 public slots:
     void handleSubmitTextAuthentication(const QString& in);
 
